@@ -1,5 +1,5 @@
 gen_data['personatge'] = [
-  'El teu port és <span id=fisic>{fisic}</span>, de pell <span id=pell>{pell}</span>, cabells <span id=cabells>{cabells}</span> i rostre <span id=rostre>{rostre}</span>. Parles amb una veu <span id=veu>{veu}</span> i duus roba <span id=vestimenta>{vestimenta}</span>. D\'esperit <span id=virtut>{virtut}</span> però alhora <span id=defecte>{defecte}</span>, i generalment se\'t considera <span id=reputacio>{reputacio}</span>. Tens l\'infortuni d\'haver sigut <span id=desgracia>{desgracia}</span>.'
+  'El teu port és <span id=fisic>{fisic}</span>, de pell <span id=pell>{pell}</span>, cabells <span id=cabells>{cabells}</span> i rostre <span id=rostre>{rostre}</span>. Parles amb una veu <span id=veu>{veu}</span> i duus roba <span id=vestimenta>{vestimenta}</span>. D\'esperit <span id=virtut>{virtut}</span> però alhora <span id=defecte>{defecte}</span>, en general se\'t considera algú <span id=reputacio>{reputacio}</span> amb la mala fortuna d\'haver sigut <span id=desgracia>{desgracia}</span>.'
 ]
 
 gen_data['nom_addicional'] = [
