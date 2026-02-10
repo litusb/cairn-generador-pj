@@ -79,8 +79,8 @@ window.descarregarPDF = async function () {
 
         );
         form.getTextField("Notes2").setText(
-            "El teu nom de Cairn clàssic seria "+
-            document.getElementById("nomclassic").textContent + " " + document.getElementById("cognomclassic").textContent + "."
+            // "El teu nom de Cairn clàssic seria "+
+            // document.getElementById("nomclassic").textContent + " " + document.getElementById("cognomclassic").textContent + "."
 
         );
         form.getTextField("Nom").setText(
