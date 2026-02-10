@@ -85,7 +85,6 @@ window.descarregarPDF = async function () {
         );
         form.getTextField("Nom").setText(
             document.getElementById("nom").textContent + "\r" + document.getElementById("cognom").textContent
-            + "\r\r" + document.getElementById("nomclassic").textContent + "\r" + document.getElementById("cognomclassic").textContent
         );
         form.getTextField("Equip1").setText(
             document.getElementById("armes").textContent

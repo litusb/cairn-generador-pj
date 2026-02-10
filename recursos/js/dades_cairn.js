@@ -135,26 +135,26 @@ gen_data['cognom'] = [
 ]
 
 gen_data['rerefons'] = [
-   'Alquimista'
-,  'Artista'
-,  'Carnisser'
-,  'Carterista'
-,  'Caçador'
-,  'Clergue'
-,  'Comerciant'
-,  'Contrabandista'
-,  'Criminal'
-,  'Enterrador'
-,  'Explorador'
-,  'Ferrer'
-,  'Fuster'
-,  'Herborista'
-,  'Jugador'
-,  'Lladre'
-,  'Mag'
-,  'Mercenari'
-,  'Miner'
-,  'Servent'
+   'alquimista'
+,  'artista'
+,  'carnisser'
+,  'carterista'
+,  'caçador'
+,  'clergue'
+,  'comerciant'
+,  'contrabandista'
+,  'criminal'
+,  'enterrador'
+,  'explorador'
+,  'ferrer'
+,  'fuster'
+,  'herborista'
+,  'jugador'
+,  'lladre'
+,  'mag'
+,  'mercenari'
+,  'miner'
+,  'servent'
 ]
 
 gen_data['rerefons_addicional'] = [
@@ -322,9 +322,9 @@ gen_data['armadura'] = {
 
 gen_data['casc'] = {
   '1-13': ', sense casc ni escut',
-  '14-16': ', un casc (+1 Armadura)',
-  '17-19': ', un escut (+1 Armadura)',
-  '20': ', un casc i un escut (+2 Armadura)'
+  '14-16': ', un casc (+1 armadura)',
+  '17-19': ', un escut (+1 armadura)',
+  '20': ', un casc i un escut (+2 armadura)'
 }
 
 gen_data['armes'] = {
@@ -334,10 +334,10 @@ gen_data['armes'] = {
 '20':'{gruparmes4}'
 }
 
-gen_data['gruparmes1'] = ['daga', 'garrot', 'bàcul']
-gen_data['gruparmes2'] = ['espasa', 'maça', 'destral']
-gen_data['gruparmes3'] = ['arc (voluminós)', 'ballesta (voluminós)', 'fona']
-gen_data['gruparmes4'] = ['alabarda (voluminós)', 'martell de guerra (voluminós)', 'destral de guerra (voluminós)']
+gen_data['gruparmes1'] = ['daga (1d6)', 'garrot (1d6)', 'bàcul (1d6)']
+gen_data['gruparmes2'] = ['espasa (1d8)', 'maça (1d8)', 'destral (1d8)']
+gen_data['gruparmes3'] = ['arc (1d6, voluminós)', 'ballesta (1d8, voluminós)', 'fona (1d4)']
+gen_data['gruparmes4'] = ['alabarda (1d10, voluminós)', 'martell de guerra (1d10, voluminós)', 'destral de guerra (1d10, voluminós)']
 
 gen_data['armadura_armes'] = {
   '1-10':'{armadura}',
